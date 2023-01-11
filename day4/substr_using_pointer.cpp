@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 void copy(char *str, char *str2)
 {
     int i = 0;
