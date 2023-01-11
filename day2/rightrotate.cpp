@@ -8,7 +8,7 @@ void reverse(int *input, int start, int end)
         swap(input[i], input[j]);
         i++;
         j--;
-    }
+    } 
 }
 void rotate(int *input, int d, int n)
 {
