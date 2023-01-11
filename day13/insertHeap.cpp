@@ -2,7 +2,7 @@
 #include "../BinaryTreeNode.cpp"
 using namespace std;
 
-// insert in max heap
+// insert in max heap 
 
 BinaryTreeNode<int> *insertHeap(BinaryTreeNode<int> *root, int data)
 {
