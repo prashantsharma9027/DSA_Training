@@ -13,7 +13,7 @@ int countNLeaf(BinaryTreeNode<int> *ptr)
     }
     return 0;
 }
-
+ 
 int main()
 {
     BinaryTreeNode<int> *root = takeInputLevelorder();
