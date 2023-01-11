@@ -10,7 +10,7 @@ int length(char *str)
         i++;
     }
     return i;
-}
+} 
 
 int ncompare(char *str, char *str2, int n)
 {
