@@ -2,6 +2,7 @@
 using namespace std;
 
 // compare strings of length n
+
 int length(char *str)
 {
     int i = 0;
