@@ -25,7 +25,7 @@ Sample Input:
 Sample Output:
 6
 89
-1 */
+1 */ 
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
