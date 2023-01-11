@@ -7,7 +7,7 @@ void inOrder2(BinaryTreeNode<int> *root, vector<int> &v)
     {
         return;
     }
-    inOrder2(root->left, v);
+    inOrder2(root->left, v); 
     // cout << root->data << " ";
     v.push_back(root->data);
     inOrder2(root->right, v);
