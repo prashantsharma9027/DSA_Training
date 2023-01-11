@@ -8,7 +8,8 @@ int getsum(int x)
         return 0;
     }
     return getsum(x % 10 + getsum(x / 10));
-}
+} 
+
 int main()
 {
 
