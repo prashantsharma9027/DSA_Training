@@ -2,6 +2,7 @@
 #include "../BinaryTreeNode.cpp"
 using namespace std;
 // n*h approach
+
 bool isBalanced(BinaryTreeNode<int> *root)
 {
     if (root == NULL)
