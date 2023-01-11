@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-{
+{ 
     char str[50];
     char str2[50];
     cin.getline(str, 50);
