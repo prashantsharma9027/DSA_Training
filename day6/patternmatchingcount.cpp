@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
+    
     string str= "abcdaaabcccdabccccd";
     int n = str.length();
     string pat= "ccc";
