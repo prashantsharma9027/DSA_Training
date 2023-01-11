@@ -36,6 +36,7 @@ int partition(int a[], int start, int end)
     }
     return pivotIndex;
 }
+
 void quickSort(int a[], int start, int end)
 {
     if (start >= end)
