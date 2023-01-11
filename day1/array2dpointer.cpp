@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main()
+int main() 
 {
     int mat[4][5];
     for (int i = 0; i < 4; i++)
