@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 #include "../BinaryTreeNode.cpp"
 using namespace std;
+
 bool isBST(BinaryTreeNode<int> *root, int min = INT_MIN, int max = INT_MAX)
 {
     if (root == NULL)
