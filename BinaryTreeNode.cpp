@@ -240,4 +240,5 @@ void postOrder(BinaryTreeNode<int> *root)
     postOrder(root->left);
     postOrder(root->right);
     cout << root->data << " ";
+    
 }
