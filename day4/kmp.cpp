@@ -7,7 +7,7 @@ int *getLongestPrefixSuffix(string pattern)
 {
     int len = pattern.length();
     int *lps = new int[len];
-
+ 
     lps[0] = 0;
     int i = 1, j = 0;
 
