@@ -26,4 +26,5 @@ int main()
     BinaryTreeNode<int> *root = taktInputLevelorder();
     cout << isMaxHeap(root);
     return 0;
+    
 }
