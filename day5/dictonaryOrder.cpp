@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 // compare strings
 int compare(char *str, char *str2)
 {
