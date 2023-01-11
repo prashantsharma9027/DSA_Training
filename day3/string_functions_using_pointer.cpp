@@ -2,7 +2,7 @@
 using namespace std;
 
 // string functions using pointer
-// length
+// length 
 int length(char *str)
 {
     int i = 0;
