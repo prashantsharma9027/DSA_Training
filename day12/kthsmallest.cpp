@@ -13,6 +13,7 @@ void inOrder2(BinaryTreeNode<int> *root, vector<int> &v)
     v.push_back(root->data);
     inOrder2(root->right, v);
 }
+
 int main()
 {
     BinaryTreeNode<int> *root = taktInputLevelorder();
