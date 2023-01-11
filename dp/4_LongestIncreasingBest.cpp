@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 // using builtin binary search nlogn
+
 int LongestIncreasingSubsequenceLength(std::vector<int> &v)
 {
     if (v.size() == 0) // boundary case
