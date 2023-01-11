@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 void cntevod(int cntarray[], int size)
 {
     int *ptr = cntarray;
