@@ -27,6 +27,7 @@ BinaryTreeNode<int> *makeTree(vector<int> input, int start, int end)
     root->right = right;
     return root;
 }
+
 BinaryTreeNode<int> *constructTree(vector<int> input, int n)
 {
     return makeTree(input, 0, n - 1);
