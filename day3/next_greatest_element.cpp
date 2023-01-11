@@ -2,7 +2,7 @@
 using namespace std;
 
 vector<int> greaterelements(int *a, int n)
-{
+{ 
    /*  vector<int> v;
     stack<int> s;
     s.push(a[n - 1]);
