@@ -1,6 +1,7 @@
 #define mod 1000000007
 int sol[100001];
 //not passing array as a parameter
+
 int getWays(int n)
 {
     if (n == 0)
