@@ -21,6 +21,6 @@ int main()
     // o/p of below is different on online compiler
 
     cout << "Size of pointer is: " << sizeof(ptr) << endl;
-
+ 
     return 0;
 }
