@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int compare(char *str, char *str2)
 {
     int i = 0;
