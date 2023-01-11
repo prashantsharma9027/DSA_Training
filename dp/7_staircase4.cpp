@@ -32,4 +32,5 @@ int countDistinctWays(int nStairs)
     sol[1] = 0;
     sol[2] = 1;
     return getWays(nStairs, sol);
+    
 }
