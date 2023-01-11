@@ -45,4 +45,4 @@ int main()
     
     delete[] input;
     return 0;
-}
+} 
