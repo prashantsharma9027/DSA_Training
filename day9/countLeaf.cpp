@@ -2,6 +2,7 @@
 #include "../BinaryTreeNode.cpp"
 using namespace std;
 
+
 int countLeaf(BinaryTreeNode<int> *ptr)
 {
     if (ptr)
