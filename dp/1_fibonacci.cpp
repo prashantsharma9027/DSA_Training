@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int sol[1000] = {-1};
+int sol[1000] = {-1}; 
 
 // 0 1 1 2 3 5 8 13 21
 int getfibonacci(int n)
